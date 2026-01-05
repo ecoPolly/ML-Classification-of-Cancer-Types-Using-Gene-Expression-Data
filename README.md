@@ -30,22 +30,6 @@ matplotlib
 seaborn
 Jupyter Notebook
 
-# Projetc structure 
-cancer-gene-expression-ml/
-│
-├── data/
-│   └── gene_expression.csv
-│
-├── notebooks/
-│   └── cancer_classification.ipynb
-│
-├── src/
-│   └── models.py
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
 # Methodology
 1. Data Preprocessing
 Removal of non-feature columns
